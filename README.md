@@ -3,3 +3,11 @@ AI-powered personal trainer with real-time exercise form correction using YOLO/S
 
 ## Table of Contents
 - [About](#about)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Architecture](#architecture)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
