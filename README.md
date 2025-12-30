@@ -30,3 +30,12 @@ QuantumFit AI Personal Trainer is an intelligent workout assistant that uses adv
 - **Frontend:** React.js
 - **Backend:** FastAPI (Python)
 - **Deployment:** Docker, GitHub Actions CI/CD
+
+## Architecture
+
+1. **Vision Module:** Captures video, detects poses, tracks form.
+2. **AI Logic Module:** Analyzes pose data, generates feedback.
+3. **Quantum Module:** Optimizes workout plans.
+4. **Automation Module:** Manages notifications and progress tracking.
+5. **Frontend:** Displays real-time feedback and user data.
+6. **Backend:** Connects all modules and stores user data.
